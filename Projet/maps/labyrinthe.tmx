@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="2016" columns="32">
+  <image source="tileset.png" width="1024" height="2016"/>
+ </tileset>
+ <layer id="8" name="piege" width="60" height="40" offsetx="-0.5" offsety="0.347332">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2ZUQ6AIAxD9e4e3A9jgosENgbbyl7ijxJoyzCIx5Ek/rjO72WNFx2a0IxR/HnxgZSpJSsz9DBfHjSMwNVv6Vdz7N6+au3Q3sMvPX6RPKP5abGb3xlEz69VA9JnI21nkjX/wMkh87In4lqTUtYm6l6jhPot70v6isSo39VoaYxQz971afK3/pIkSTjQfcvscayR+G19U3re83nWxiW6/l3gnsEgzyvCuqNI/aDlEAWt/2RR5q92PrEzNzuafS2AJQAA
+  </data>
+ </layer>
+ <layer id="2" name="backgroung" width="60" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3DMQ0AAAwDoM57hVfDfkjoJVVVVVVVVVVVVfV9Lv6kWYAlAAA=
+  </data>
+ </layer>
+ <layer id="5" name="secret" width="60" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3XMQoAIAwDQKH//7OjziJayB10bygEOgY31e8FHkvLC6/VNgC/pXaRHga60k8AAACc8k/2k3aTtLzJ0m6dlpdlAlCid22AJQAA
+  </data>
+ </layer>
+ <layer id="3" name="murs" width="60" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACuWYXU7DQAyE+xCRi/CCuHfPWVUo0sr4Z2bs0AAjRSip1/a39po299vtdv9nFyLUThGTB6uPTYuj5PO2z+fRUYd3sn+s3Vk93OVV1kU2lndSES9TJ2ZPkXyuzsvEQGwjXiQf5PMozvNaZ4mqNcbn9nVlthlvJ77NxeON8unMCGauTfEivqd51Vyz/DrxGd6zxNS6m8dVeJHP2Pka2Ub+GL9qP297j5cRyqtocrZl+So5qTlO93nlK+Kt+tfanZkj4+c386q9jKy3sVXeyX5G93GKN4tZxVCE7INS3yqm9zezQ2IgdUX2KbNhedf/Y2fwVs9YXqRXvfMZ9Yb1b9+fWJ/efcbC8G77dxukV9c8s99sE/VFzmJ1j8yazLbisL66vJG874Bsf3d42X1heZV5pZ7VLN/oPntu5xrKm+m9qDdy/qZ4qz5ReNl6R+e/mhFZ/OzdduZH5UV8Z/Yob9Q7ncv6qfI99jfbY5UX6R1VV+hn73kltG6d+lbn5ad4vf724nV5mXp66738Onmr6yLeTM935yzvdN7VOk9M369ieRlF+ag+7PPoM+/3Reazy3vM+1fxVusRXvXyfDA5TvAi80r5zoPGRWxRfxPq1JOpeRY/0zFzpnhfpejcW628yPn5K9cDU1u/ZIAlAAA=
+  </data>
+ </layer>
+</map>
